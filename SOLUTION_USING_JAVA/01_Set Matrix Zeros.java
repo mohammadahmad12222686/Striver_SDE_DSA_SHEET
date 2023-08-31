@@ -4,6 +4,7 @@ class Solution {
 
         Scanner s=new Scanner(System.in);
 
+        
         int row=matrix.length;
         int col=matrix[0].length;
         int arrow[]=new int[row];
